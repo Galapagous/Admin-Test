@@ -1,0 +1,52 @@
+.widgetSM {
+  flex: 1;
+  box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+  -webkit-box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+  -moz-box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+  margin-right: 20px;
+  padding: 20px;
+  width: 100%;
+}
+.userSmallTitle {
+  font-size: 20px;
+  font-weight: bold;
+}
+.userSmallLiistItem {
+  margin: 0;
+  padding: 10px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.userSmallDetails {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.widgetImage {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: contain;
+}
+.userSmallName {
+  font-weight: 600;
+}
+.userSmallCareer {
+  font-weight: 300;
+  color: #555;
+}
+.add {
+  padding: 7px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #eeeef7;
+  border: none;
+  border-radius: 10px;
+}
+.visibility {
+  font-size: 16px;
+  margin-right: 5px !important;
+}

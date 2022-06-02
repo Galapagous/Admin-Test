@@ -1,0 +1,135 @@
+.productItems {
+  flex: 4;
+  margin-top: 50px;
+}
+.productTop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 20px;
+  margin-bottom: 20px;
+}
+.productTitle {
+  font-size: 16px;
+  font-weight: 600;
+}
+.productCreate {
+  padding: 7px 10px;
+  background-color: teal;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.productBottom {
+  display: flex;
+  margin: 0px 20px;
+}
+.productBottomLeft {
+  flex: 1;
+  margin-right: 50px;
+}
+.productBottomRight {
+  padding: 15px;
+  flex: 1;
+  box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+  -webkit-box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+  -moz-box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+}
+.productBottomImg {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 20px;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.productBottomRightHead {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15x;
+}
+.bottomItems {
+  margin-bottom: 4px;
+  display: flex;
+  align-items: center;
+}
+.bottomTitle {
+  font-weight: 600;
+}
+.bottomText {
+  margin-left: 50px;
+  color: #555;
+}
+.include {
+  color: teal;
+}
+.bottomItems .none {
+  color: red;
+}
+.productItemsDown {
+  flex: 4;
+  display: flex;
+  /* align-items: center; */
+  justify-content: space-around;
+  margin: 30px 20px;
+  box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+  -webkit-box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+  -moz-box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+}
+.productDownLeft {
+  flex: 1;
+  margin-right: 200px;
+}
+.productDownFormItem {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.productDownRight {
+  flex: 1;
+}
+.productDownFormItem > label {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 10px;
+}
+.productDownFormItem > input,
+.productDownFormItem > select {
+  margin-bottom: 10px;
+  width: 200px;
+  border: none;
+  border-bottom: 1px solid grey;
+}
+.downRightImg {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+.productDownRight {
+  text-align: center;
+}
+.downRightsection {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.downUpload {
+  margin-left: 20px;
+  color: red;
+  cursor: pointer;
+}
+.downLeftButton {
+  width: 200px;
+  margin-top: 20px;
+  background-color: darkblue;
+  color: white;
+  font-weight: 500;
+  padding: 7px 10px;
+  border-radius: 5px;
+  border: none;
+  font-size: 1.1rem;
+  cursor: pointer;
+}

@@ -1,0 +1,5 @@
+.chart {
+  box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+  -webkit-box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+  -moz-box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+}

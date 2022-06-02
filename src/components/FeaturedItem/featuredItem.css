@@ -1,0 +1,46 @@
+.featuredItems {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.featurecard {
+  /* flex: 1; */
+  width: 200px;
+  padding: 40px;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+  -webkit-box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+  -moz-box-shadow: 7px 9px 17px 0px rgba(0, 0, 0, 0.19);
+}
+.featuredItemTitle {
+  font-size: 20px;
+}
+.featuredItemMoney {
+  align-items: center;
+  width: auto;
+  height: auto;
+}
+.money {
+  font-size: 30px;
+  font-weight: 600px;
+}
+.rate {
+  margin-left: 20px;
+  justify-content: center;
+}
+.arrowIcon {
+  font-size: 15px;
+  padding-top: 10px;
+  justify-content: center;
+  color: green;
+}
+.negative {
+  color: red;
+}
+.sub {
+  font-size: 15px;
+  color: grey;
+}
