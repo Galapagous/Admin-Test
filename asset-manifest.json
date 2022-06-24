@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Galapagous/Admin-Test/static/css/main.adcf2acb.css",
+    "main.js": "/Galapagous/Admin-Test/static/js/main.8ce170d5.js",
+    "static/media/MusaThree.png": "/Galapagous/Admin-Test/static/media/MusaThree.aaec159ec114a3f5a563.png",
+    "index.html": "/Galapagous/Admin-Test/index.html",
+    "main.adcf2acb.css.map": "/Galapagous/Admin-Test/static/css/main.adcf2acb.css.map",
+    "main.8ce170d5.js.map": "/Galapagous/Admin-Test/static/js/main.8ce170d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adcf2acb.css",
+    "static/js/main.8ce170d5.js"
+  ]
+}
